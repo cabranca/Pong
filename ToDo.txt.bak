@@ -1,0 +1,5 @@
+-Audio:
+	-Agregar efecto de sonido cuando colisiona ball y player
+	
+-Físicas:
+	-Colisión para los bordes superior e inferior de player

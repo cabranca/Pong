@@ -1,0 +1,2 @@
+TEXTO:
+	-Renderear fuente para el score y la GUI
